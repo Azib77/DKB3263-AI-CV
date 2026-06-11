@@ -1,5 +1,5 @@
 # DKB3263-AI-CV
-🖥️ Active Terminal Instance┌──(root💀kali)-[~/workspace/matrix]
+⚡ SYSTEM OVERRIDE SEQUENCE ⚡🖥️ Active Terminal Instance┌──(root💀kali)-[~/workspace/matrix]
 └─$ ./initiate_sequence.sh --force-exploit
 
 [+] Scanning target nodes... DONE (Found 13 vulnerable ports)
@@ -9,7 +9,7 @@
   / __)/ )( \(  _ \(  __)(  _ \  (  __)( \/ )(  _ \(  _ \ /  \(_  _)(  _ \
  ( (__ ) \/ ( ) __/ ) _)  )   /   ) _)  )  (  ) __/ )   /(  O ) )(   )   /
   \___)\____/(__)  (____)(__\_)  (____)(_/\_)(__)  (__\_) \__/ (__) (__\_)
-🛠️ Arsenal & Cyber WeaponryThese are the primary modules and applications utilized under this project framework:CategoryTool StatusEfficiencyTarget ParameterInformation GatheringNmap98%Network ReconnaissanceVulnerability AnalysisNikto85%Web AuditingExploitation FrameworkMetasploit95%Payload DeliverySniffing & SpoofingWireshark90%Traffic InterceptionPost-ExploitationMimikatz92%Credential Harvesting📈 System Metrics & Hacker Activity🛡️ Encryption & Secure Keys-----BEGIN PGP PUBLIC KEY BLOCK-----
+🛠️ Arsenal & Cyber WeaponrySenarai modul utama yang digunakan dalam sistem ini:Information GatheringAlat: NmapTahap Kecekapan: 98%Fungsi: Network ReconnaissanceVulnerability AnalysisAlat: NiktoTahap Kecekapan: 85%Fungsi: Web AuditingExploitation FrameworkAlat: MetasploitTahap Kecekapan: 95%Fungsi: Payload DeliverySniffing & SpoofingAlat: WiresharkTahap Kecekapan: 90%Fungsi: Traffic Interception🛡️ Encryption & Secure Keys-----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v2.2.27 (GNU/Linux)
 
 mQINBGEyTkIBEADOfgB5yW... [ENCRYPTED DATA STREAM] ...
